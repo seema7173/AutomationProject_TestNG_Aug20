@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4318" started-at="2021-03-19T18:20:04 CDT" finished-at="2021-03-19T18:20:08 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4318" started-at="2021-03-19T18:20:04 CDT" finished-at="2021-03-19T18:20:08 CDT">
+      <class name="test.TC_03">
+        <test-method status="PASS" signature="validatemonths()[pri:0, instance:test.TC_03@2f490758]" name="validatemonths" duration-ms="4259" started-at="2021-03-19T18:20:04 CDT" finished-at="2021-03-19T18:20:08 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatemonths -->
+      </class> <!-- test.TC_03 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
